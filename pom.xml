@@ -5,6 +5,9 @@
   <groupId>com.app.example.design.patterns</groupId>
   <artifactId>patterns-example</artifactId>
   <version>1.0.0</version>
+  <modules>
+    <module>patterns-example-singleton</module>
+  </modules>
   <packaging>pom</packaging>
 
   <name>Maven</name>
